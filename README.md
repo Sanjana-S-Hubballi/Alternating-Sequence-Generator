@@ -1,6 +1,6 @@
 # Alternating-Sequence-Generator
 
-An alternating sequence ("altseq") is defined below:
+An alternating sequence is defined below:
 - Starts at 1
 - Always counting up or down by 1
 - At element n, the counting direction changes direction if
